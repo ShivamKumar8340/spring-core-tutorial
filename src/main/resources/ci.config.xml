@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+       xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <!--  set value by constructor -->
+    <bean class="com.springCore.ci.Certificate" name="cer">
+       <constructor-arg> <value>java</value></constructor-arg>
+    </bean>
+
+
+
+    <bean class="com.springCore.ci.Person" name="person1">
+        <constructor-arg value="1" type="int"/>
+        <constructor-arg value="Amit" type="String"/>
+        <constructor-arg ref="cer"/>
+    </bean>
+
+</beans>
