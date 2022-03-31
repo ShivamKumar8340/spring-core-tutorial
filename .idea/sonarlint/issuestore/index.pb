@@ -1,22 +1,12 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-e
-5src/main/java/com/springCore/collections/TestEmp.java,b\8\b83f3ba8dca6d62c82164c945b2df02a264b4e15
 W
 'src/main/java/com/springCore/ref/A.java,e\0\e049cb9efef4df06236e30d1275a84f5c3972f50
-a
-1src/main/java/com/springCore/collections/Emp.java,9\6\96d968ff75614e35d29baf2e819c66c102c5f7ff
 W
 'src/main/java/com/springCore/ref/B.java,d\0\d0d5628d2859c95bbbceb85b5ccffec8cd1320ef
-`
-0src/main/java/com/springCore/ci/Certificate.java,7\c\7ce4a96510811f6f943708963cd9b73567dd208b
 [
 +src/main/java/com/springCore/ci/Person.java,f\a\fae505a9d349677abd57c8e954ff90600c35a7ab
 ]
 -src/main/java/com/springCore/ref/TestRef.java,3\d\3dac6fb747b33540fbd5e8a3a817939894e4c349
-_
-/src/main/java/com/springCore/first/Student.java,4\a\4aa0fccfaf017b222d430b852dccc07b89372ca4
 k
 ;src/main/java/com/springCore/lifeCycle/usingXml/Samosa.java,f\8\f8ad286b52aed0afd1f7b58c306c853e306e7a05
 o
@@ -25,8 +15,6 @@ p
 @src/main/java/com/springCore/lifeCycle/usingInterface/Pepsi.java,a\b\ab7212c2de85d706d177170831196f6f1778a3fb
 t
 Dsrc/main/java/com/springCore/lifeCycle/usingInterface/TestPepsi.java,2\7\27f14cdcb62d53569ef82540278a2463886708a5
-c
-3src/main/java/com/springCore/first/TestStudent.java,1\6\169e683f10c97f31c6ca54ffa4105a8caafe743f
 _
 /src/main/java/com/springCore/ci/TestPerson.java,5\b\5b5bdf720463557f3296a6e39a2d9079472f471f
 n
@@ -41,3 +29,9 @@ w
 Gsrc/main/java/com/springCore/lifeCycle/usingAnnotation/TestExample.java,a\a\aa9f4cbaa7939f24889710aecc19b2324f2fbcb2
 s
 Csrc/main/java/com/springCore/lifeCycle/usingAnnotation/Example.java,0\7\07ec47ddabf772cb4cf5ce8d58fe2d8700db1884
+g
+7src/main/java/com/springCore/sterotype/TestCourses.java,3\4\34bec47aebbe0c77456b50c494247e5dd6fbe638
+r
+Bsrc/main/java/com/springCore/autowiring/usingAnnotation/Hotel.java,4\b\4b06a2c99183f2564b677414378b1288e3a0bb1a
+v
+Fsrc/main/java/com/springCore/autowiring/usingAnnotation/TestHotel.java,6\f\6f5cd26c23013b405d709db10fb153874d976068
